@@ -1,5 +1,7 @@
 このUnityプロジェクトは、ChatGPTのAPIとConvaiパッケージを活用して、NPCがテキストや音声でプレーヤーと自然に会話し、高度な作業を行うことができる知能を提供します。
 
+<img src="https://i.ibb.co/jkhQdjg/6232e49c-56f3-4453-af58-cba10b6681ae.jpg" alt="6232e49c-56f3-4453-af58-cba10b6681ae" border="0">
+
 ## 2022.3以前のUnityバージョンで設定する手順：
 
 - ファイル／プロジェクト設定をクリックします。
